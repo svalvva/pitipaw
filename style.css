@@ -26,4 +26,6 @@ body {
     grid-area: paw;
     min-height: 350px;
     background-image: url(img/8x6.png);
+    background-size: cover;
+    background-position: center;
 }
