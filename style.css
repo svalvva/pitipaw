@@ -24,8 +24,13 @@ body {
 
 .paw {
     grid-area: paw;
-    min-height: 350px;
+    min-height: 300px;
     background-image: url(img/8x6.png);
     background-size: cover;
     background-position: center;
+    padding: 50px;
+}
+
+.paw > * {
+    display: none;
 }
