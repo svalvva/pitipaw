@@ -8,7 +8,7 @@ img {
 }
 
 body {
-    background-color: #dddddd;
+    background-color: #f48ec8;
     font-size: 18px;
     font-family: 'Fjalla One', Arial, Helvetica, sans-serif;
     margin: 50px;
@@ -43,7 +43,7 @@ body {
 
 .features {
     background-color: black;
-    color: white;
+    color: rgb(53, 2, 46);
     display: grid;
     /* justify-content: center;
     align-content: center; */
